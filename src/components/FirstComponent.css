@@ -1,0 +1,166 @@
+.drawer-container {
+  background-color: #f5f3fb;
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 10px;
+  font-family: "Inter", sans-serif;
+}
+
+.close-icon {
+  font-size: 19px;
+}
+
+.sub-header {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.sub-header > p {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+}
+
+.sub-header > p:first-child {
+  margin-right: 25px;
+  font-family: "Inter", sans-serif;
+}
+
+.content {
+  background-color: white;
+  color: black;
+  margin-left: 14px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px !important;
+  padding-right: 40px !important;
+  height: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+.avatar-icon {
+  z-index: 1;
+  text-align: center;
+  margin: auto !important;
+  height: 80px !important;
+  width: 80px !important;
+}
+.avatar-upload-icon {
+  position: relative;
+  margin-left: 51.5%;
+  margin-top: -15% !important;
+  z-index: 2;
+  background-color: white;
+  border-radius: 50%;
+  color: #6b5dd3;
+  font-size: 20px;
+}
+
+.form-input {
+  padding-left: 15px;
+  height: 40px;
+  background: #f5f3fb !important;
+  border: 1px solid #babec6 !important;
+  border-radius: 8px;
+  color: #80848c !important;
+  width: 100% !important;
+  margin-top: 5px !important;
+  font-family: "Inter", sans-serif;
+}
+
+.css-1bzfwrl-MuiButtonBase-root-MuiButton-root {
+  justify-content: space-between !important;
+  text-transform: capitalize !important;
+}
+.form-input-dropdown {
+  padding-left: 15px;
+  height: 40px;
+  background: #f5f3fb !important;
+  border: 1px solid #babec6;
+  border-radius: 8px;
+  color: #80848c !important;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+.css-17dq7k {
+  text-align: start !important;
+  align-items: center !important;
+  justify-content: start !important;
+}
+
+.form-button {
+  font-size: 16px;
+  color: #6b5dd3;
+  align-items: center;
+  margin-top: 30px !important;
+  text-align: end;
+}
+.icon-button {
+  font-size: 16px;
+}
+.form-document-upload {
+  height: 70px;
+  background: #f5f3fb !important;
+  border: 1px solid #babec6;
+  border-radius: 8px;
+  color: #80848c !important;
+  width: 100%;
+}
+.myDatePicker fieldset.MuiOutlinedInput-notchedOutline {
+  border-color: transparent;
+}
+
+.myDatePicker .Mui-focused fieldset.MuiOutlinedInput-notchedOutline {
+  border-color: transparent;
+}
+.form-input-calendar {
+  background: #f5f3fb !important;
+  /* border: 1px solid #BABEC6 !important; */
+  border-radius: 8px;
+  color: #80848c !important;
+  width: 100%;
+  margin-top: 4px !important;
+  font-family: "Inter", sans-serif;
+}
+.form-input-calendar .MuiInputBase-formControl {
+}
+.form-input-calendar .MuiInputBase-formControl input {
+  padding: 10px;
+}
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  box-sizing: content-box !important;
+  position: relative !important ;
+}
+
+.firstFo {
+  color: black !important;
+}
+.dropD {
+  font-weight: 800 !important;
+}
+.icon-button {
+  color: #6b5dd3 !important;
+  font-weight: 700;
+}
+.Next {
+  color: #6b5dd3 !important;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+.Button {
+  font-weight: 500;
+}
+
+.radio-group{
+  display: flex !important;
+}
+.css-1yq5fb3-MuiButtonBase-root-MuiIconButton-root{
+  color:#6B5DD3 !important;
+}
